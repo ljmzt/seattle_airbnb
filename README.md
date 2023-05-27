@@ -36,4 +36,4 @@ Making Airbnb more profitable than long-term renting requires significant effort
 * A nice paper by Geoff Boeing and Paul Waddell that compared the publish median FMR with actual rental price can be found on https://arxiv.org/pdf/1605.05397.pdf
 * The raw Airbnb data is from https://www.kaggle.com/datasets/airbnb/seattle
 * A report from the San Francisco Urban Planning Department offers critical insights and steps of making the comparison between Airbnb and Rent. The report can be found https://commissions.sfplanning.org/cpcpackets/2014-001033PCA.pdf
-* The raw json file to plot the zip code boundaries are https://github.com/OpenDataDE/State-zip-code-GeoJSON/tree/master
+* The raw json file to plot the zip code boundaries is from https://github.com/OpenDataDE/State-zip-code-GeoJSON/tree/master
